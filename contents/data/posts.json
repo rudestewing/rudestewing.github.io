@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "project-idnic-event-management-system",
+            "type": "project",
+            "date": "Aug 2019",
+            "title": "IDNIC Event Management System",
+            "description": "Web based Event Management system for IDNIC Members"
+        },
+        {
+            "id": "project-lawgo",
+            "type": "project",
+            "date": "Aug 2019",
+            "title": "Lawgo Indonesia",
+            "description": "Build core service API & Website"
+        },
+        {
+            "id": "project-higen-monitoring",
+            "type": "project",
+            "date": "Dec 2018",
+            "title": "Dashboard Monitoring PT. Higen",
+            "description": "dashboard monitoring of call usage & billing"
+        },
+        {
+            "id": "project-asian-paragames",
+            "type": "project",
+            "date": "Oct 2018",
+            "title": "Asian Paragames 2018 Photo Gallery",
+            "description": "Photos of athletes and activities"
+        },
+        {
+            "id": "project-dmc-payroll",
+            "type": "project",
+            "date": "Jan 2018",
+            "title": "Payroll & HR System ",
+            "description": "build Web based local system to manage Payroll & HR easily"
+        }
+    ]
+}
