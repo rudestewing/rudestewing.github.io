@@ -1,0 +1,15 @@
+# Mengamankan public file dengan Signed URLs
+
+draft .
+
+Bayangkan apabila aplikasi Anda membutuhkan data user yang valid dengan beberapa dokumen pendukung seperti KTP, Foto, atau Foto Buku Tabungan yang perlu di upload.
+
+
+```js
+{
+    "data": {
+        
+    }
+}
+
+```
