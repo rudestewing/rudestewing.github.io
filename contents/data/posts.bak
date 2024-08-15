@@ -1,0 +1,7 @@
+{
+    "id": "blog-secure-public-file",
+    "type": "blog",
+    "date": "Jun 2020",
+    "title": "Secure Public File with Signed URLs (Laravel, PHP) ",
+    "description": "how to secure your files with signed urls"
+}
